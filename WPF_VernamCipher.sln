@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Vernam_Encryption", "WPF_VernamCipher\WPF_Vernam_Encryption.csproj", "{02F82FDE-EA56-4A85-99F9-F5635674E0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F82FDE-EA56-4A85-99F9-F5635674E0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F82FDE-EA56-4A85-99F9-F5635674E0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F82FDE-EA56-4A85-99F9-F5635674E0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F82FDE-EA56-4A85-99F9-F5635674E0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68AFF746-9435-41CF-8807-7F1FDF4F18D2}
+	EndGlobalSection
+EndGlobal
